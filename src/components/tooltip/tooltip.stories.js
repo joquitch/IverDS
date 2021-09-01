@@ -18,7 +18,7 @@ export default {
 
 const Template = ({text, target, direction}) => 
     html`
-      <div class="target" style="position: fixed; top: 200px; left: 200px">Hover me!</div>
+      <div class="target" style="position: fixed; top: 200px; left: 200px">Hover me!!</div>
       <iver-tooltip text=${text} target=${target} direction=${direction}></iver-tooltip>
     `;
 
