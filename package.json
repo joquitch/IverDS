@@ -18,7 +18,8 @@
   "scripts": {
     "test": "npm run test",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "chromatic": "npx chromatic --project-token=275bd2213d79"
   },
   "repository": {
     "type": "git",
