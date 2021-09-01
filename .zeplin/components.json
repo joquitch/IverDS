@@ -1,0 +1,23 @@
+{
+  "plugins": [],
+  "styleguides": [
+    "611cf5e13ad24932dcc0d73a"
+  ],
+  "components": [
+    {
+      "path": "src\\components\\avatar\\avatar.js",
+      "zeplinIds": [
+        "611d16b015cbd430fbe1de41"
+      ]
+    },
+    {
+      "path": "src\\components\\tooltip\\tooltip.js",
+      "zeplinIds": [
+        "611d0363260c7b1848147865"
+      ]
+    }
+  ],
+  "github": {
+    "repository": "joquitch/IverDS"
+  }
+}
