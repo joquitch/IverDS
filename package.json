@@ -1,0 +1,23 @@
+{
+  "name": "iverds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lit": "^2.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joquitch/IverDS.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joquitch/IverDS/issues"
+  },
+  "homepage": "https://github.com/joquitch/IverDS#readme"
+}
