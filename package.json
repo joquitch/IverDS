@@ -11,6 +11,7 @@
     "@storybook/addon-actions": "^6.3.7",
     "@storybook/addon-essentials": "^6.3.7",
     "@storybook/addon-links": "^6.3.7",
+    "@storybook/storybook-deployer": "^2.8.10",
     "@storybook/web-components": "^6.3.7",
     "@zeplin/cli": "^1.1.12",
     "babel-loader": "^8.2.2",
@@ -23,7 +24,8 @@
     "build-storybook": "build-storybook",
     "chromatic": "npx chromatic --project-token=275bd2213d79",
     "zeplin-connect": "zeplin connect",
-    "zeplin-connect-dev-mode": "zeplin connect --dev"
+    "zeplin-connect-dev-mode": "zeplin connect --dev",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "repository": {
     "type": "git",
