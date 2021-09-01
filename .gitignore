@@ -5,3 +5,6 @@
 
 ## storybook
 build-storybook.log
+
+## dist
+/dist/
