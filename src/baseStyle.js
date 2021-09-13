@@ -158,7 +158,7 @@ export const baseStyle = css`
       color: var(--color-shade-4);
    }
 
-   body {
+   .body {
       font-family: Graphik;
       font-size: 14px;
       font-weight: normal;
