@@ -15,6 +15,12 @@
       "zeplinIds": [
         "611d0363260c7b1848147865"
       ]
+    },
+    {
+      "path": "src\\components\\button\\button.stories.js",
+      "zeplinIds": [
+        "6139ce7556138e2bd23f4c72"
+      ]
     }
   ],
   "github": {
