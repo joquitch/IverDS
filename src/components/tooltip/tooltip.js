@@ -106,3 +106,4 @@ export class Tooltip extends LitElement {
     this.classList.remove('visible')
   }
 }
+window.customElements.define('iver-tooltip', Tooltip);

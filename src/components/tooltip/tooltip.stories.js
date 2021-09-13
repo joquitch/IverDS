@@ -1,4 +1,4 @@
-import './tooltip.define';
+import './tooltip';
 import { html } from 'lit-html';
 
 export default {
