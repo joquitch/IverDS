@@ -8,7 +8,7 @@ export default {
     
   },
   parameters: {
-    zeplinLink: "https://app.zeplin.io/styleguide/611cf5e13ad24932dcc0d73a/components?coid=6139ce7556138e2bd23f4c72"
+    zeplinLink: "https://app.zeplin.io/project/5f7dc838b9bccb2b9e68b87b/styleguide/components?coid=61431cd04518bf516720673f"
   },
   decorators: [(story) => html`${story()}`]
 };

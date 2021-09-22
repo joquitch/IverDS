@@ -21,9 +21,18 @@
       "zeplinIds": [
         "6139ce7556138e2bd23f4c72"
       ]
+    },
+    {
+      "path": "src\\components\\button\\button.js",
+      "zeplinIds": [
+        "61431cd04518bf516720673f"
+      ]
     }
   ],
   "github": {
     "repository": "joquitch/IverDS"
-  }
+  },
+  "projects": [
+    "5f7dc838b9bccb2b9e68b87b"
+  ]
 }
