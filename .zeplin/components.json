@@ -1,31 +1,21 @@
 {
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "@zeplin/cli-connect-storybook-plugin",
+      "config": {
+        "url": "https://joquitch.github.io/IverDS/"
+      }
+    }
+  ],
   "styleguides": [
     "611cf5e13ad24932dcc0d73a"
   ],
   "components": [
     {
-      "path": "src\\components\\avatar\\avatar.js",
+      "path": "src\\components\\icon-button\\icon-button.js",
       "zeplinIds": [
-        "611d16b015cbd430fbe1de41"
-      ]
-    },
-    {
-      "path": "src\\components\\tooltip\\tooltip.js",
-      "zeplinIds": [
-        "611d0363260c7b1848147865"
-      ]
-    },
-    {
-      "path": "src\\components\\button\\button.stories.js",
-      "zeplinIds": [
-        "6139ce7556138e2bd23f4c72"
-      ]
-    },
-    {
-      "path": "src\\components\\button\\button.js",
-      "zeplinIds": [
-        "61431cd04518bf516720673f"
+        "614c2d639e55e63e7ebc8aa6",
+        "614c2d65ea486a3b56d83c71"
       ]
     }
   ],

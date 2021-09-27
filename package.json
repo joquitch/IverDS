@@ -15,6 +15,7 @@
     "@storybook/storybook-deployer": "^2.8.10",
     "@storybook/web-components": "^6.3.7",
     "@zeplin/cli": "^1.1.12",
+    "@zeplin/cli-connect-storybook-plugin": "^0.5.4",
     "babel-loader": "^8.2.2",
     "chromatic": "^5.9.2",
     "storybook-zeplin": "^1.5.1"
